@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhanMemTraoDoiDoCu", "PhanMemTraoDoiDoCu.csproj", "{93569B7A-EE9F-462F-A236-F14973F9DB51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93569B7A-EE9F-462F-A236-F14973F9DB51}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{93569B7A-EE9F-462F-A236-F14973F9DB51}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{93569B7A-EE9F-462F-A236-F14973F9DB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93569B7A-EE9F-462F-A236-F14973F9DB51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8C58C59-7A22-44BF-80A7-61FC00CED05E}
+	EndGlobalSection
+EndGlobal

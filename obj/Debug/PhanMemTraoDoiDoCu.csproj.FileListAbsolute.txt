@@ -1,0 +1,14 @@
+D:\university\Nhom 08 - Windows Subject\final-project\PhanMemTraoDoiDoCu\bin\Debug\PhanMemTraoDoiDoCu.exe.config
+D:\university\Nhom 08 - Windows Subject\final-project\PhanMemTraoDoiDoCu\bin\Debug\PhanMemTraoDoiDoCu.exe
+D:\university\Nhom 08 - Windows Subject\final-project\PhanMemTraoDoiDoCu\bin\Debug\PhanMemTraoDoiDoCu.pdb
+D:\university\Nhom 08 - Windows Subject\final-project\PhanMemTraoDoiDoCu\obj\Debug\PhanMemTraoDoiDoCu.csproj.AssemblyReference.cache
+D:\university\Nhom 08 - Windows Subject\final-project\PhanMemTraoDoiDoCu\obj\Debug\PhanMemTraoDoiDoCu.Properties.Resources.resources
+D:\university\Nhom 08 - Windows Subject\final-project\PhanMemTraoDoiDoCu\obj\Debug\PhanMemTraoDoiDoCu.csproj.GenerateResource.cache
+D:\university\Nhom 08 - Windows Subject\final-project\PhanMemTraoDoiDoCu\obj\Debug\PhanMemTraoDoiDoCu.csproj.CoreCompileInputs.cache
+D:\university\Nhom 08 - Windows Subject\final-project\PhanMemTraoDoiDoCu\obj\Debug\PhanMemTraoDoiDoCu.exe
+D:\university\Nhom 08 - Windows Subject\final-project\PhanMemTraoDoiDoCu\obj\Debug\PhanMemTraoDoiDoCu.pdb
+D:\university\Nhom 08 - Windows Subject\final-project\PhanMemTraoDoiDoCu\bin\Debug\MaterialSkin.dll
+D:\university\Nhom 08 - Windows Subject\final-project\PhanMemTraoDoiDoCu\obj\Debug\PhanMemTraoDoiDoCu.csproj.CopyComplete
+D:\university\Nhom 08 - Windows Subject\final-project\PhanMemTraoDoiDoCu\obj\Debug\PhanMemTraoDoiDoCu.Views.Login.LoginView.resources
+D:\university\Nhom 08 - Windows Subject\final-project\PhanMemTraoDoiDoCu\bin\Debug\FontAwesome.Sharp.dll
+D:\university\Nhom 08 - Windows Subject\final-project\PhanMemTraoDoiDoCu\obj\Debug\PhanMemTraoDoiDoCu.Views.Dashboard.DashboardView.resources
