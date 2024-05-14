@@ -11,10 +11,7 @@ namespace PhanMemTraoDoiDoCu.Models.UserFavorites
     {
         void Add(UserFavoritesModel favoritesModel);
         void Delete(int productId);
-
-        RepositoryResponse AddUserFavorite(int userId, int productId);
-
-        ProductModel GetProductDetail(int id);
-        IEnumerable<ProductModel> GetAllFavoriteProductDetail();
+        RepositoryResponse AddUserFavorite(UserFavoritesModel favorite);
+        IEnumerable<UserFavoritesModel> GetAllUserFavorite(int userId);
     }
 }

@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Utils"
+    "\\Featutes",
+    "\\Featutes\\MyBills",
+    "\\_Entity"
   ],
-  "SelectedNode": "\\Utils\\HelperApplication.cs",
+  "SelectedNode": "\\PhanMemTraoDoiDoCu.sln",
   "PreviewInSolutionExplorer": false
 }

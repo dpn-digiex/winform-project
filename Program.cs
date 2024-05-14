@@ -3,13 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using PhanMemTraoDoiDoCu.Views.Login;
-using System.Configuration;
-using PhanMemTraoDoiDoCu.Views;
-using PhanMemTraoDoiDoCu.Presenters;
 using PhanMemTraoDoiDoCu.Models.User;
-using PhanMemTraoDoiDoCu._Repositories;
-using PhanMemTraoDoiDoCu.Views.Dashboard;
+using PhanMemTraoDoiDoCu.Features.Login;
+using PhanMemTraoDoiDoCu._Entity;
+using PhanMemTraoDoiDoCu.Models.Product;
+using System.Data.SqlClient;
+using System.IO;
 
 namespace PhanMemTraoDoiDoCu
 {
@@ -27,7 +26,6 @@ namespace PhanMemTraoDoiDoCu
             IUserRepository repo = new UserRepository();
             new LoginPresenter(view, repo);
             Application.Run((Form)view);
-            // Application.Run(new LoginView());
         }
     }
 }
